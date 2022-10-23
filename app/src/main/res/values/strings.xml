@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="search">Search</string>
+    <string name="today">Today</string>
+    <string name="search_city_weather">Search City Weather</string>
+    <string name="search_for_a_city">Search for a city</string>
+    <string name="next_5_days">Next 5 Days</string>
+
+</resources>
